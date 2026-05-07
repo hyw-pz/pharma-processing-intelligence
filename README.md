@@ -58,10 +58,10 @@ parameter distributions across pass/fail groups, and review flagged batches.
 ## Results
 
 Top predictive features (SHAP):
-1. Compression force deviation from target
-2. Coating weight gain std (uniformity)
-3. API moisture content
-4. Total moisture index
+1. Compression force deviation from target (comp_force_dev_kn)
+2. API bulk density (api_bulk_density_g_ml)
+3. Tablet weight (tablet_weight_mg)
+4. API moisture content (api_moisture_pct)
 
 ## Dashboard
 
