@@ -65,8 +65,8 @@ Top predictive features (SHAP):
 
 ## Dashboard
 
-![Batch Monitor](assets/main results.png)
-![Parameter Explorer](assets/parameter explorer.png)
+![Batch Monitor](assets/main-results.png)
+![Parameter Explorer](assets/parameter-explorer.png)
 ---
 
 ## Project Structure
