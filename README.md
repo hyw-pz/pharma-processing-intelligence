@@ -39,9 +39,7 @@ coefficient of variation (an indicator of film coat uniformity).
 
 **Task 3 — Predictive model** (`src/models/train.py`)  
 Trained an XGBoost classifier to predict dissolution pass/fail, with logistic
-regression as a baseline. XGBoost reached ROC-AUC ~0.93 on the test set vs.
-~0.78 for the baseline, confirming that the process parameters carry real
-predictive signal.
+regression as a baseline. 
 
 **Task 4 — Explainability** (`src/models/explain.py`)  
 Added SHAP feature importance to answer "why is the model flagging this batch?"
