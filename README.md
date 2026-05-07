@@ -4,7 +4,7 @@ Exploring whether manufacturing process data can predict tablet dissolution
 outcome — a data project I built to understand how ML might support
 batch release decisions in pharmaceutical production.
 
-**[▶ Live Demo](https://YOUR-APP.streamlit.app)**  ← replace after deploying to Streamlit Cloud
+**[▶ Live Demo](https://YOUR-APP.streamlit.app)**  
 
 ---
 
