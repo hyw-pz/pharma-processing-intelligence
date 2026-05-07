@@ -57,17 +57,16 @@ parameter distributions across pass/fail groups, and review flagged batches.
 
 ## Results
 
-| Model | ROC-AUC | Notes |
-|---|---|---|
-| Logistic Regression | ~0.78 | Baseline |
-| XGBoost | ~0.93 | Primary model |
-
 Top predictive features (SHAP):
 1. Compression force deviation from target
 2. Coating weight gain std (uniformity)
 3. API moisture content
 4. Total moisture index
 
+## Dashboard
+
+![Batch Monitor](assets/main results.png)
+![Parameter Explorer](assets/parameter explorer.png)
 ---
 
 ## Project Structure
